@@ -1,0 +1,34 @@
+# Vídeos
+
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Pasta de arquivos processados
+
+processed/
+
+# Dependências Node.js
+
+node_modules/
+
+# Arquivos temporários
+
+*.tmp
+*.temp
+
+# Logs
+
+*.log
+
+# Arquivos do sistema
+
+.DS_Store
+Thumbs.db
+
+# Configurações de IDE
+
+.vscode/
+.idea/
