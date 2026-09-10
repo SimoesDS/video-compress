@@ -1,6 +1,6 @@
 @echo off
 
-cd /d "%~dp0video-compress"
+cd /d "%~dp0src"
 
 node index.js
 
